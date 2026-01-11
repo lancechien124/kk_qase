@@ -1,0 +1,118 @@
+{
+  "common": {
+    "success": "Success",
+    "failed": "Failed",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "reset": "Reset",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish",
+    "loading": "Loading...",
+    "no_data": "No data",
+    "operation_success": "Operation successful",
+    "operation_failed": "Operation failed"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "login_success": "Login successful",
+    "login_failed": "Login failed",
+    "invalid_credentials": "Invalid username or password",
+    "token_expired": "Token expired",
+    "unauthorized": "Unauthorized"
+  },
+  "user": {
+    "user_management": "User Management",
+    "user_list": "User List",
+    "create_user": "Create User",
+    "update_user": "Update User",
+    "delete_user": "Delete User",
+    "user_name": "Username",
+    "email": "Email",
+    "phone": "Phone",
+    "status": "Status",
+    "role": "Role"
+  },
+  "project": {
+    "project_management": "Project Management",
+    "project_list": "Project List",
+    "create_project": "Create Project",
+    "update_project": "Update Project",
+    "delete_project": "Delete Project",
+    "project_name": "Project Name",
+    "project_description": "Project Description"
+  },
+  "api_test": {
+    "api_test": "API Test",
+    "api_definition": "API Definition",
+    "api_test_case": "API Test Case",
+    "api_scenario": "API Scenario",
+    "create_api": "Create API",
+    "update_api": "Update API",
+    "delete_api": "Delete API",
+    "execute_api": "Execute API",
+    "import_api": "Import API",
+    "export_api": "Export API"
+  },
+  "functional_case": {
+    "functional_case": "Functional Case",
+    "create_case": "Create Case",
+    "update_case": "Update Case",
+    "delete_case": "Delete Case",
+    "case_name": "Case Name",
+    "case_description": "Case Description",
+    "test_steps": "Test Steps",
+    "expected_result": "Expected Result"
+  },
+  "test_plan": {
+    "test_plan": "Test Plan",
+    "create_plan": "Create Test Plan",
+    "update_plan": "Update Test Plan",
+    "delete_plan": "Delete Test Plan",
+    "execute_plan": "Execute Test Plan",
+    "plan_name": "Plan Name",
+    "plan_description": "Plan Description"
+  },
+  "bug": {
+    "bug_management": "Bug Management",
+    "create_bug": "Create Bug",
+    "update_bug": "Update Bug",
+    "delete_bug": "Delete Bug",
+    "bug_title": "Bug Title",
+    "bug_description": "Bug Description",
+    "bug_status": "Bug Status",
+    "bug_priority": "Bug Priority"
+  },
+  "file": {
+    "file_upload": "File Upload",
+    "file_download": "File Download",
+    "file_delete": "Delete File",
+    "upload_success": "Upload successful",
+    "upload_failed": "Upload failed",
+    "file_not_found": "File not found"
+  },
+  "error": {
+    "not_found": "Not Found",
+    "bad_request": "Bad Request",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "internal_error": "Internal Error",
+    "validation_error": "Validation Error"
+  }
+}
+

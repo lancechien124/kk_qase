@@ -1,0 +1,118 @@
+{
+  "common": {
+    "success": "成功",
+    "failed": "失敗",
+    "error": "錯誤",
+    "warning": "警告",
+    "info": "資訊",
+    "confirm": "確認",
+    "cancel": "取消",
+    "save": "儲存",
+    "delete": "刪除",
+    "edit": "編輯",
+    "create": "建立",
+    "update": "更新",
+    "search": "搜尋",
+    "reset": "重置",
+    "submit": "提交",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "finish": "完成",
+    "loading": "載入中...",
+    "no_data": "暫無資料",
+    "operation_success": "操作成功",
+    "operation_failed": "操作失敗"
+  },
+  "auth": {
+    "login": "登入",
+    "logout": "登出",
+    "username": "使用者名稱",
+    "password": "密碼",
+    "email": "電子郵件",
+    "login_success": "登入成功",
+    "login_failed": "登入失敗",
+    "invalid_credentials": "使用者名稱或密碼錯誤",
+    "token_expired": "令牌已過期",
+    "unauthorized": "未授權"
+  },
+  "user": {
+    "user_management": "使用者管理",
+    "user_list": "使用者列表",
+    "create_user": "建立使用者",
+    "update_user": "更新使用者",
+    "delete_user": "刪除使用者",
+    "user_name": "使用者名稱",
+    "email": "電子郵件",
+    "phone": "手機號碼",
+    "status": "狀態",
+    "role": "角色"
+  },
+  "project": {
+    "project_management": "專案管理",
+    "project_list": "專案列表",
+    "create_project": "建立專案",
+    "update_project": "更新專案",
+    "delete_project": "刪除專案",
+    "project_name": "專案名稱",
+    "project_description": "專案描述"
+  },
+  "api_test": {
+    "api_test": "API測試",
+    "api_definition": "API定義",
+    "api_test_case": "API測試用例",
+    "api_scenario": "API場景",
+    "create_api": "建立API",
+    "update_api": "更新API",
+    "delete_api": "刪除API",
+    "execute_api": "執行API",
+    "import_api": "匯入API",
+    "export_api": "匯出API"
+  },
+  "functional_case": {
+    "functional_case": "功能用例",
+    "create_case": "建立用例",
+    "update_case": "更新用例",
+    "delete_case": "刪除用例",
+    "case_name": "用例名稱",
+    "case_description": "用例描述",
+    "test_steps": "測試步驟",
+    "expected_result": "預期結果"
+  },
+  "test_plan": {
+    "test_plan": "測試計劃",
+    "create_plan": "建立測試計劃",
+    "update_plan": "更新測試計劃",
+    "delete_plan": "刪除測試計劃",
+    "execute_plan": "執行測試計劃",
+    "plan_name": "計劃名稱",
+    "plan_description": "計劃描述"
+  },
+  "bug": {
+    "bug_management": "缺陷管理",
+    "create_bug": "建立缺陷",
+    "update_bug": "更新缺陷",
+    "delete_bug": "刪除缺陷",
+    "bug_title": "缺陷標題",
+    "bug_description": "缺陷描述",
+    "bug_status": "缺陷狀態",
+    "bug_priority": "缺陷優先級"
+  },
+  "file": {
+    "file_upload": "檔案上傳",
+    "file_download": "檔案下載",
+    "file_delete": "刪除檔案",
+    "upload_success": "上傳成功",
+    "upload_failed": "上傳失敗",
+    "file_not_found": "檔案不存在"
+  },
+  "error": {
+    "not_found": "未找到",
+    "bad_request": "請求錯誤",
+    "unauthorized": "未授權",
+    "forbidden": "禁止存取",
+    "internal_error": "內部錯誤",
+    "validation_error": "驗證錯誤"
+  }
+}
+
